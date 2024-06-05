@@ -32,11 +32,11 @@ Welcome to my COA Taskforce Take-Home Challenge project! This challenge showcase
 1. **Clone the Repository:**
    
    ```sh
-   git clone https://github.com/Nkusibeni23/COA-TASKFORCE-TAKE-HOME-CHALLENGE-1.git
+   git clone https://github.com/Nkusibeni23/COA-Take-home-Challenge.git
    ```
    
    ```sh
-   cd COA-TASKFORCE-TAKE-HOME-CHALLENGE-1.git
+   cd COA-Take-home-Challenge.git
    ```
 
 2. **Open the Project:**
